@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-transport-request/static/css/main.64c9874d.css",
+    "main.js": "/test-transport-request/static/js/main.0f85e582.js",
+    "index.html": "/test-transport-request/index.html",
+    "main.64c9874d.css.map": "/test-transport-request/static/css/main.64c9874d.css.map",
+    "main.0f85e582.js.map": "/test-transport-request/static/js/main.0f85e582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c9874d.css",
+    "static/js/main.0f85e582.js"
+  ]
+}
