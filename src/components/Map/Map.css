@@ -1,0 +1,9 @@
+@import url("~leaflet/dist/leaflet.css");
+
+.leaflet-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100vw !important;
+  height: 100vh !important;
+}
